@@ -1,0 +1,31 @@
+Text
+Do you enjoy quizing?
+I like do quiz when it has reward along
+Oh I just want to check your skills, Trang
+
+Step 2 
+If 1
+What is your fava food recently? I mean the one you can eat everyday
+Type here= 
+> Okie I try to buy you one when we have change to work under the "Company" dorm :P
+If 2
+Great, thank for the professional choice
+Here is the list of my skill. Trust me you should skip this, TL;NR
+Button {show my skill list} / {what's next}
+Let's get a chance for me to have an remarkable interview with all the fellows in your company dorm.
+
+Wander what is the result if you click {I like do quiz when it has reward along} 
+Tada. Thank to the technology you alway have chance to redo your choice. 
+Back to the If 1
+
+Cảm ơn bạn,
+I hope that you like this JS quiz as much as I do
+Also thank you to (The one had help me check and guide me)
+
+// I just want to create a site that send to Friend, HR or Interviewer to asking them their favorite foods I will make it simple food or drink So next time when I arived I will buy them one :P
+	<h1> Your taste quiz</h1>
+<ul>
+	<li>let's get started here</li>
+	<<li> Who am  I</li>
+	<p>I am Trang Pham and this is my first site. Thank you for your visiting here</p>
+</ul>
